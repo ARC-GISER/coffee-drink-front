@@ -1,0 +1,116 @@
+/* ========================================
+   YShop 咖啡点餐 — 设计令牌
+   品牌定位："你的精品咖啡生活"
+   主色调：咖啡温暖系 #6B3A2E
+   ======================================== */
+
+// ========== uView UI 主题覆盖（必须在 uView theme.scss 之前定义） ==========
+$uv-primary: #6B3A2E;
+$uv-primary-dark: #4A2C1A;
+$uv-primary-disabled: #B89A8E;
+$uv-primary-light: #FFF0E5;
+
+$uv-warning: #E8A838;
+$uv-warning-dark: #D4944A;
+$uv-warning-disabled: #F5D9A0;
+$uv-warning-light: #FEF8EF;
+
+$uv-success: #5B8C5A;
+$uv-success-dark: #4A7349;
+$uv-success-disabled: #A8C7A7;
+$uv-success-light: #F2F8F1;
+
+$uv-error: #C0392B;
+$uv-error-dark: #A83227;
+$uv-error-disabled: #E0A09A;
+$uv-error-light: #FDF0EF;
+
+$uv-info: #8B7355;
+$uv-info-dark: #6D5A43;
+$uv-info-disabled: #C4B8AA;
+$uv-info-light: #F6F3EF;
+
+$uv-main-color: #2C1810;
+$uv-content-color: #5D4037;
+$uv-tips-color: #8D6E63;
+$uv-light-color: #BCAAA4;
+$uv-border-color: #E8D5C4;
+$uv-bg-color: #FEF9F3;
+$uv-disabled-color: #D6CEC6;
+
+// ========== 品牌主色 ==========
+$color-primary: #6B3A2E;
+$color-primary-dark: #4A2C1A;
+$color-primary-light: #FFF0E5;
+
+// ========== 功能色 ==========
+$color-accent: #D4944A;
+$color-success: #5B8C5A;
+$color-success-light: #F2F8F1;
+$color-warning: #E8A838;
+$color-error: #C0392B;
+$color-info: #8B7355;
+
+// ========== 文字颜色 ==========
+$text-color-base: #2C1810;
+$text-color-regular: #5D4037;
+$text-color-assist: #8D6E63;
+$text-color-placeholder: #BCAAA4;
+$text-color-grey: #8D6E63;
+$text-color-white: #FFFFFF;
+
+// ========== 背景色 ==========
+$bg-color: #FEF9F3;
+$bg-color-grey: #F8F2E8;
+$bg-color-primary: #6B3A2E;
+$bg-color-warm: #FFF8F0;
+$bg-color-card: #FAFAF7;
+
+// ========== 边框 ==========
+$border-color: #E8D5C4;
+$border-color-light: #F5EDE4;
+$border-radius-base: 12rpx;
+
+// ========== 阴影 ==========
+$box-shadow: 0 2rpx 12rpx rgba(74, 44, 26, 0.06);
+$shadow-sm: 0 2rpx 8rpx rgba(74, 44, 26, 0.04);
+$shadow-base: 0 4rpx 16rpx rgba(74, 44, 26, 0.08);
+$shadow-lg: 0 8rpx 32rpx rgba(74, 44, 26, 0.12);
+$shadow-button: 0 6rpx 20rpx rgba(107, 58, 46, 0.25);
+
+// ========== 圆角 ==========
+$radius-sm: 8rpx;
+$radius-base: 12rpx;
+$radius-lg: 20rpx;
+$radius-xl: 28rpx;
+$radius-round: 999rpx;
+
+// ========== 字体大小 ==========
+$font-size-xs: 20rpx;
+$font-size-sm: 24rpx;
+$font-size-base: 28rpx;
+$font-size-md: 32rpx;
+$font-size-lg: 36rpx;
+$font-size-xl: 44rpx;
+$font-size-xxl: 56rpx;
+$font-size-medium: 26rpx;
+$font-size-extra-lg: 40rpx;
+
+// ========== 字重 ==========
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+
+// ========== 间距 ==========
+$spacing-xs: 10rpx;
+$spacing-sm: 20rpx;
+$spacing-md: 30rpx;
+$spacing-lg: 40rpx;
+$spacing-xl: 50rpx;
+
+// ========== uView UI 兼容变量 ==========
+$u-type-warning: #E8A838;
+$uv-tips-color: #8D6E63;
+$uv-info-dark: #6D5A43;
